@@ -2,7 +2,7 @@
 title: Wieża wyzwań
 layout: default
 nav_order: 1           # Kolejność lekcji w obrębie Modułu 1
-description: Zadanie Praktyczne: Budujemy Wieżę Wyzwań!
+description: Zadanie Praktyczne - Budujemy Wieżę Wyzwań!
 ---
 
 
