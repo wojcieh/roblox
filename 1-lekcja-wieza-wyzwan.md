@@ -2,7 +2,7 @@
 title: Wieża wyzwań
 layout: default
 nav_order: 1           # Kolejność lekcji w obrębie Modułu 1
-description: Odkryj moc P5.js i programowania kreatywnego.
+description: Zadanie Praktyczne: Budujemy Wieżę Wyzwań!
 ---
 
 
