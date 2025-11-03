@@ -4,11 +4,7 @@ layout: default
 nav_order: 1           # Kolejność lekcji w obrębie Modułu 1
 description: Zadanie Praktyczne - Budujemy Wieżę Wyzwań!
 ---
-
-
 Wspaniale! Najlepszy sposób na start to **budowanie**! To zadanie pomoże uczniom poznać podstawowe narzędzia w Roblox Studio, takie jak przesuwanie, obracanie i skalowanie.
-
----
 
 ## Zadanie Praktyczne: Budujemy Wieżę Wyzwań! 🏗️
 
