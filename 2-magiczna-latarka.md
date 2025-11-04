@@ -28,8 +28,9 @@ Musimy stworzyć noc, aby nasza latarka była potrzebna!
 Teraz stworzymy uchwyt i wbudujemy w niego żarówkę.
 
 1.  **Uchwyt (Handle):**
-    * W zakładce **Home** (Główna) dodaj nową część: **Part**.
-    * **NAZWA:** Zmień nazwę tej części w Explorerze na **`Handle`**.
+    * W zakładce **Home** (Strona główna) dodaj nową część: **Part** (Część).
+  ![alt text](image.png)
+    * **NAZWA:** Zmień nazwę tej części w Explorerze na **`Handle`** (prawy przycisk myszy -> zmień nazwę).
     * **WŁAŚCIWOŚCI:** Zmień kolor na czarny lub szary.
     * **FIZYKA:** Właściwość **`Anchored`** (Zakotwiczenie) musi być **WYŁĄCZONA**.
 2.  **Źródło Światła (PointLight):**
@@ -44,8 +45,8 @@ Teraz stworzymy uchwyt i wbudujemy w niego żarówkę.
 Musimy przekształcić nasz fizyczny obiekt w narzędzie do noszenia.
 
 1.  **Kontener Tool:**
-    * W Explorerze znajdź obiekt **`StarterPlayer`**.
-    * Kliknij prawym przyciskiem myszy na **`StarterPlayer`** i wstaw obiekt **`Tool`** (Narzędzie).
+    * W Explorerze znajdź obiekt **`StarterPack`**.
+    * Kliknij prawym przyciskiem myszy na **`StarterPack`** i wstaw obiekt **`Tool`** (Narzędzie).
     * Zmień nazwę nowego obiektu na **`MojaLatarka`**.
 2.  **Prawidłowa Hierarchia:**
     * Przeciągnij część **`Handle`** (wraz z wbudowanym `PointLight`) i upuść ją **do wewnątrz** obiektu **`MojaLatarka`**.
@@ -71,3 +72,4 @@ Zmień właściwości latarki, aby stworzyć **upiorne światło** idealne na Ha
 
 1.  Zmień kolor obiektu **`PointLight`** na **ciemny fiolet** lub **jaskrawozielony**.
 2.  Właściwość **`Brightness`** (Jasność) ustaw na **3** lub **4**, aby nadać upiorny blask.
+3.  Stwórz dodatkową latarkę, która będzie świeciła na inny kolor lub będzie miałą inną jasność
